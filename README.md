@@ -27,3 +27,6 @@ limited time, and then recalls the sequence to find out whether they have recall
 ## Note:
 
 Due to game design, the records of this game is only session persistent.
+
+Please refer to this link for more detailed instructions:
+https://demingqian.github.io/portfolio-demingQian/project_demo/rr.html
